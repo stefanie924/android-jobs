@@ -51,7 +51,8 @@ YOU+ | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/) | 13薪+季度奖+年终奖+很多软妹子！| [renzhibin@cvte.cn](mailto:renzhibin@cvte.cn "有效期至 2014-12-31")
-115 科技 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%B9%BF%E5%B7%9E--JD/115%E7%A7%91%E6%8A%80%20Android.md) | 过亿用户，高大上环境 | [liyaoyan@115.com](mailto:liyaoyan@115.com)   
+115 科技 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%B9%BF%E5%B7%9E--JD/115%E7%A7%91%E6%8A%80%20Android.md) | 过亿用户，高大上环境 | [liyaoyan@115.com](mailto:liyaoyan@115.com)  
+广州经传 | [Android 项目经理](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E5%AE%89%E5%B1%85%E5%AE%A2%20Android.md) | 提前兑现期权，领导好，扁平化，美女多 | [yijshu@gmail.com](mailto:yijshu@gmail.com "有效期至 2015-12-31")
 
 ####杭州
 公司  | JD 地址 | 一句话诱惑 | 联系人
